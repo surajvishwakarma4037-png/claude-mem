@@ -1,0 +1,5 @@
+import { PatientPortalPage } from '@/components/PatientPortalPage';
+
+export default function Page() {
+  return <PatientPortalPage />;
+}
